@@ -7,10 +7,10 @@ global.qris = "https://a.top4top.io/p_319465f4i0.jpeg"
 
 
 // GLOBAL SETTING
-global.owner = "27623649420" //masukin no lu
+global.owner = "254754783972" //masukin no lu
 global.namabot = "Re-Jeong V4"
-global.nomorbot = "27623649420" //masukin no lu
-global.namaCreator = "Re-Jeong "
+global.nomorbot = "254754783972" //masukin no lu
+global.namaCreator = "Tylor"
 global.linkyt = "-"
 global.autoJoin = false
 global.antilink = false
